@@ -1,0 +1,8 @@
+country,start_datetime,end_datetime,reason
+Austria,10/01/2026 15:00,10/01/2026 23:59,Public holiday truck ban
+France,10/01/2026 22:00,10/01/2026 23:59,Night driving restriction
+Luxembourg,10/01/2026 21:30,10/01/2026 23:59,Special restriction
+Switzerland,10/01/2026 22:00,10/01/2026 23:59,Special restriction
+Hungary,10/01/2026 22:00,10/01/2026 23:59,Night driving restriction
+France,18/01/2026 00:00,18/01/2026 22:00,Weekend Driving Ban
+Germany,18/01/2026 00:00,18/01/2026 22:00,Weekend Driving Ban
