@@ -1,1 +1,2210 @@
-
+{
+  "last_updated": "2026-01-23T15:05:48.741495Z",
+  "bans": [
+    {
+      "country": "romania",
+      "start": "2025-12-01T06:00:00",
+      "end": "2025-12-01T22:00:00",
+      "regional": true,
+      "info": "DN7 - Piteşti (intersection with DN7C) - Rm. Vâlcea - Veştem (intersection with DN1), in both directions;\nA2 - Bucharest (intersection with the Bucharest Ring Road) - Fundulea - Lehliu - Feteşti - Cernavoda - Constanta (intersection with A4) - in both directions;\nDN39 - Agigea (intersection with DN39A) - Mangalia (municipality border) - in both directions"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-06T23:30:00",
+      "end": "2025-12-06T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-06T21:30:00",
+      "end": "2025-12-06T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-06T22:00:00",
+      "end": "2025-12-06T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-06T22:00:00",
+      "end": "2025-12-06T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-06T22:00:00",
+      "end": "2025-12-06T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-06T15:00:00",
+      "end": "2025-12-06T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-06T22:00:00",
+      "end": "2025-12-06T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2025-12-07T09:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2025-12-07T08:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2025-12-07T13:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-07T00:00:00",
+      "end": "2025-12-07T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-08T00:00:00",
+      "end": "2025-12-08T22:00:00",
+      "regional": false,
+      "info": "Public holiday: Feast of the Immaculate Conception"
+    },
+    {
+      "country": "italy",
+      "start": "2025-12-08T09:00:00",
+      "end": "2025-12-08T22:00:00",
+      "regional": false,
+      "info": "Public holiday: Immaculate Conception"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-08T00:00:00",
+      "end": "2025-12-08T23:59:00",
+      "regional": false,
+      "info": "Public holiday: Immaculate Conception"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-13T15:00:00",
+      "end": "2025-12-13T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-13T22:00:00",
+      "end": "2025-12-13T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-13T21:30:00",
+      "end": "2025-12-13T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-13T23:30:00",
+      "end": "2025-12-13T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-13T22:00:00",
+      "end": "2025-12-13T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-13T22:00:00",
+      "end": "2025-12-13T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-13T22:00:00",
+      "end": "2025-12-13T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2025-12-14T13:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2025-12-14T08:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2025-12-14T09:00:00",
+      "end": "2025-12-14T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-14T00:00:00",
+      "end": "2025-12-14T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-20T22:00:00",
+      "end": "2025-12-20T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-20T22:00:00",
+      "end": "2025-12-20T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-20T22:00:00",
+      "end": "2025-12-20T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-20T15:00:00",
+      "end": "2025-12-20T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-20T21:30:00",
+      "end": "2025-12-20T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-20T23:30:00",
+      "end": "2025-12-20T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-20T22:00:00",
+      "end": "2025-12-20T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2025-12-21T08:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2025-12-21T09:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2025-12-21T13:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2025-12-21T00:00:00",
+      "end": "2025-12-21T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "bulgaria",
+      "start": "2025-12-23T12:00:00",
+      "end": "2025-12-23T20:00:00",
+      "regional": true,
+      "info": "Driving ban on motorways"
+    },
+    {
+      "country": "czech republic",
+      "start": "2025-12-24T13:00:00",
+      "end": "2025-12-24T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Eve"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-24T22:00:00",
+      "end": "2025-12-24T23:59:00",
+      "regional": false,
+      "info": ""
+    },
+    {
+      "country": "greece",
+      "start": "2025-12-24T16:00:00",
+      "end": "2025-12-24T22:00:00",
+      "regional": false,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-24T21:30:00",
+      "end": "2025-12-24T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "croatia",
+      "start": "2025-12-24T15:00:00",
+      "end": "2025-12-24T23:00:00",
+      "regional": false,
+      "info": ""
+    },
+    {
+      "country": "romania",
+      "start": "2025-12-24T16:00:00",
+      "end": "2025-12-24T22:00:00",
+      "regional": true,
+      "info": "DN7 - Piteşti (intersection with DN7C) - Rm. Vâlcea - Veştem (intersection with DN1), in both directions;\nA2 - Bucharest (intersection with the Bucharest Ring Road) - Fundulea - Lehliu - Feteşti - Cernavoda - Constanta (intersection with A4) - in both directions;\nDN39 - Agigea (intersection with DN39A) - Mangalia (municipality border) - in both directions"
+    },
+    {
+      "country": "slovakia",
+      "start": "2025-12-24T00:00:00",
+      "end": "2025-12-24T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Holidays"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-24T00:00:00",
+      "end": "2025-12-24T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-24T23:30:00",
+      "end": "2025-12-24T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "italy",
+      "start": "2025-12-25T09:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "croatia",
+      "start": "2025-12-25T14:00:00",
+      "end": "2025-12-25T23:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "czech republic",
+      "start": "2025-12-25T13:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T23:59:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "germany",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "poland",
+      "start": "2025-12-25T08:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "romania",
+      "start": "2025-12-25T06:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": true,
+      "info": "DN7 - Piteşti (intersection with DN7C) - Rm. Vâlcea - Veştem (intersection with DN1), in both directions;\nA2 - Bucharest (intersection with the Bucharest Ring Road) - Fundulea - Lehliu - Feteşti - Cernavoda - Constanta (intersection with A4) - in both directions;\nDN39 - Agigea (intersection with DN39A) - Mangalia (municipality border) - in both directions"
+    },
+    {
+      "country": "slovakia",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "slovenia",
+      "start": "2025-12-25T08:00:00",
+      "end": "2025-12-25T22:00:00",
+      "regional": true,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T23:59:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T23:59:00",
+      "regional": true,
+      "info": "Public Holiday: Christmas Day / The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-25T00:00:00",
+      "end": "2025-12-25T23:59:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "germany",
+      "start": "2025-12-26T00:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "poland",
+      "start": "2025-12-26T08:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "romania",
+      "start": "2025-12-26T06:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": true,
+      "info": "DN7 - Piteşti (intersection with DN7C) - Rm. Vâlcea - Veştem (intersection with DN1), in both directions;\nA2 - Bucharest (intersection with the Bucharest Ring Road) - Fundulea - Lehliu - Feteşti - Cernavoda - Constanta (intersection with A4) - in both directions;\nDN39 - Agigea (intersection with DN39A) - Mangalia (municipality border) - in both directions"
+    },
+    {
+      "country": "slovakia",
+      "start": "2025-12-26T00:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "slovenia",
+      "start": "2025-12-26T08:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": true,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-26T00:00:00",
+      "end": "2025-12-26T23:59:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-26T00:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "croatia",
+      "start": "2025-12-26T14:00:00",
+      "end": "2025-12-26T23:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "italy",
+      "start": "2025-12-26T09:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-26T00:00:00",
+      "end": "2025-12-26T23:59:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-26T00:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "czech republic",
+      "start": "2025-12-26T13:00:00",
+      "end": "2025-12-26T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-26T00:00:00",
+      "end": "2025-12-26T21:45:00",
+      "regional": false,
+      "info": "Public Holiday: Christmas Day"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-27T23:30:00",
+      "end": "2025-12-27T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-27T22:00:00",
+      "end": "2025-12-27T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-27T22:00:00",
+      "end": "2025-12-27T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-27T22:00:00",
+      "end": "2025-12-27T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-27T22:00:00",
+      "end": "2025-12-27T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-27T21:30:00",
+      "end": "2025-12-27T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-27T15:00:00",
+      "end": "2025-12-27T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "switzerland",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2025-12-28T09:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2025-12-28T08:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "austria",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2025-12-28T13:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "greece",
+      "start": "2025-12-28T15:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": false,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2025-12-28T00:00:00",
+      "end": "2025-12-28T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "bulgaria",
+      "start": "2025-12-30T12:00:00",
+      "end": "2025-12-30T20:00:00",
+      "regional": true,
+      "info": "Driving ban on motorways"
+    },
+    {
+      "country": "greece",
+      "start": "2025-12-31T15:00:00",
+      "end": "2025-12-31T21:00:00",
+      "regional": false,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-31T21:30:00",
+      "end": "2025-12-31T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2025-12-31T23:30:00",
+      "end": "2025-12-31T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "romania",
+      "start": "2025-12-31T16:00:00",
+      "end": "2025-12-31T22:00:00",
+      "regional": true,
+      "info": "DN7 - Piteşti (intersection with DN7C) - Rm. Vâlcea - Veştem (intersection with DN1), in both directions;\nA2 - Bucharest (intersection with the Bucharest Ring Road) - Fundulea - Lehliu - Feteşti - Cernavoda - Constanta (intersection with A4) - in both directions;\nDN39 - Agigea (intersection with DN39A) - Mangalia (municipality border) - in both directions"
+    },
+    {
+      "country": "croatia",
+      "start": "2025-12-31T15:00:00",
+      "end": "2025-12-31T23:00:00",
+      "regional": false,
+      "info": ""
+    },
+    {
+      "country": "france",
+      "start": "2025-12-31T22:00:00",
+      "end": "2025-12-31T23:59:00",
+      "regional": false,
+      "info": ""
+    },
+    {
+      "country": "hungary",
+      "start": "2025-12-31T22:00:00",
+      "end": "2025-12-31T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "croatia",
+      "start": "2026-01-01T14:00:00",
+      "end": "2026-01-01T23:00:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-01-01T13:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "greece",
+      "start": "2026-01-01T15:00:00",
+      "end": "2026-01-01T21:00:00",
+      "regional": false,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T21:45:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "germany",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "poland",
+      "start": "2026-01-01T08:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "romania",
+      "start": "2026-01-01T06:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": true,
+      "info": "DN7 - Piteşti (intersection with DN7C) - Rm. Vâlcea - Veştem (intersection with DN1), in both directions;\nA2 - Bucharest (intersection with the Bucharest Ring Road) - Fundulea - Lehliu - Feteşti - Cernavoda - Constanta (intersection with A4) - in both directions;\nDN39 - Agigea (intersection with DN39A) - Mangalia (municipality border) - in both directions"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-01-01T08:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": true,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T23:59:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": true,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "italy",
+      "start": "2026-01-01T09:00:00",
+      "end": "2026-01-01T22:00:00",
+      "regional": false,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-01T00:00:00",
+      "end": "2026-01-01T23:59:00",
+      "regional": false,
+      "info": "Public Holiday: New Year’s Day"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-01-02T08:00:00",
+      "end": "2026-01-02T22:00:00",
+      "regional": true,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-01-02T06:00:00",
+      "end": "2026-01-02T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions."
+    },
+    {
+      "country": "greece",
+      "start": "2026-01-02T15:00:00",
+      "end": "2026-01-02T21:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "greece",
+      "start": "2026-01-03T08:00:00",
+      "end": "2026-01-03T13:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-03T21:30:00",
+      "end": "2026-01-03T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-03T23:30:00",
+      "end": "2026-01-03T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-03T22:00:00",
+      "end": "2026-01-03T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-03T22:00:00",
+      "end": "2026-01-03T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-03T22:00:00",
+      "end": "2026-01-03T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-03T15:00:00",
+      "end": "2026-01-03T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-03T22:00:00",
+      "end": "2026-01-03T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-01-04T08:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-01-04T09:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-04T00:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-01-04T13:00:00",
+      "end": "2026-01-04T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "croatia",
+      "start": "2026-01-05T15:00:00",
+      "end": "2026-01-05T23:00:00",
+      "regional": false,
+      "info": ""
+    },
+    {
+      "country": "romania",
+      "start": "2026-01-05T18:00:00",
+      "end": "2026-01-05T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions."
+    },
+    {
+      "country": "croatia",
+      "start": "2026-01-06T14:00:00",
+      "end": "2026-01-06T23:00:00",
+      "regional": false,
+      "info": "Public holiday: Epiphany"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-01-06T00:00:00",
+      "end": "2026-01-06T22:00:00",
+      "regional": false,
+      "info": "Public holiday: Epiphany"
+    },
+    {
+      "country": "romania",
+      "start": "2026-01-06T18:00:00",
+      "end": "2026-01-06T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions."
+    },
+    {
+      "country": "italy",
+      "start": "2026-01-06T09:00:00",
+      "end": "2026-01-06T22:00:00",
+      "regional": false,
+      "info": "Public holiday: Epiphany"
+    },
+    {
+      "country": "greece",
+      "start": "2026-01-06T15:00:00",
+      "end": "2026-01-06T21:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-06T00:00:00",
+      "end": "2026-01-06T22:00:00",
+      "regional": false,
+      "info": "Public holiday: Epiphany"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-06T00:00:00",
+      "end": "2026-01-06T23:59:00",
+      "regional": false,
+      "info": "Public holiday: Epiphany"
+    },
+    {
+      "country": "romania",
+      "start": "2026-01-07T06:00:00",
+      "end": "2026-01-07T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions."
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-10T15:00:00",
+      "end": "2026-01-10T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-10T22:00:00",
+      "end": "2026-01-10T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-10T21:30:00",
+      "end": "2026-01-10T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-10T23:30:00",
+      "end": "2026-01-10T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-10T22:00:00",
+      "end": "2026-01-10T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-10T22:00:00",
+      "end": "2026-01-10T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-10T22:00:00",
+      "end": "2026-01-10T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-01-11T08:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-01-11T09:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-01-11T13:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-11T00:00:00",
+      "end": "2026-01-11T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-17T21:30:00",
+      "end": "2026-01-17T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-17T23:30:00",
+      "end": "2026-01-17T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-17T22:00:00",
+      "end": "2026-01-17T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-17T22:00:00",
+      "end": "2026-01-17T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-17T22:00:00",
+      "end": "2026-01-17T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-17T15:00:00",
+      "end": "2026-01-17T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-17T22:00:00",
+      "end": "2026-01-17T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-01-18T13:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-01-18T08:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-01-18T09:00:00",
+      "end": "2026-01-18T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-18T00:00:00",
+      "end": "2026-01-18T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "romania",
+      "start": "2026-01-23T18:00:00",
+      "end": "2026-01-23T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-24T21:30:00",
+      "end": "2026-01-24T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-24T23:30:00",
+      "end": "2026-01-24T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "romania",
+      "start": "2026-01-24T06:00:00",
+      "end": "2026-01-24T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions."
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-24T22:00:00",
+      "end": "2026-01-24T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-24T22:00:00",
+      "end": "2026-01-24T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-24T22:00:00",
+      "end": "2026-01-24T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-24T22:00:00",
+      "end": "2026-01-24T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-24T15:00:00",
+      "end": "2026-01-24T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-01-25T08:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-01-25T09:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-25T00:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-01-25T13:00:00",
+      "end": "2026-01-25T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-31T21:30:00",
+      "end": "2026-01-31T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-01-31T23:30:00",
+      "end": "2026-01-31T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-01-31T22:00:00",
+      "end": "2026-01-31T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-01-31T22:00:00",
+      "end": "2026-01-31T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-01-31T22:00:00",
+      "end": "2026-01-31T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-01-31T15:00:00",
+      "end": "2026-01-31T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-01-31T22:00:00",
+      "end": "2026-01-31T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-02-01T13:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-02-01T08:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "italy",
+      "start": "2026-02-01T09:00:00",
+      "end": "2026-02-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-02-01T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-07T15:00:00",
+      "end": "2026-02-07T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-07T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-07T21:30:00",
+      "end": "2026-02-07T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-07T23:30:00",
+      "end": "2026-02-07T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-07T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-07T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-07T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-02-08T13:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-02-08T08:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-02-08T09:00:00",
+      "end": "2026-02-08T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-08T00:00:00",
+      "end": "2026-02-08T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-14T15:00:00",
+      "end": "2026-02-14T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-14T22:00:00",
+      "end": "2026-02-14T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-14T21:30:00",
+      "end": "2026-02-14T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-14T23:30:00",
+      "end": "2026-02-14T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-14T22:00:00",
+      "end": "2026-02-14T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-14T22:00:00",
+      "end": "2026-02-14T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-14T22:00:00",
+      "end": "2026-02-14T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-02-15T13:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-02-15T08:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-02-15T09:00:00",
+      "end": "2026-02-15T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-15T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-21T15:00:00",
+      "end": "2026-02-21T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-21T22:00:00",
+      "end": "2026-02-21T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-21T21:30:00",
+      "end": "2026-02-21T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-21T23:30:00",
+      "end": "2026-02-21T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-21T22:00:00",
+      "end": "2026-02-21T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-21T22:00:00",
+      "end": "2026-02-21T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-21T22:00:00",
+      "end": "2026-02-21T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-02-22T13:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-02-22T08:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-02-22T09:00:00",
+      "end": "2026-02-22T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-22T00:00:00",
+      "end": "2026-02-22T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-02-28T15:00:00",
+      "end": "2026-02-28T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-02-28T22:00:00",
+      "end": "2026-02-28T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-28T21:30:00",
+      "end": "2026-02-28T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-02-28T23:30:00",
+      "end": "2026-02-28T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-02-28T22:00:00",
+      "end": "2026-02-28T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-02-28T22:00:00",
+      "end": "2026-02-28T23:59:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-02-28T22:00:00",
+      "end": "2026-02-28T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "austria",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-03-01T13:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-03-01T08:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": true,
+      "info": "The above-mentioned restrictions do not apply to vehicles of EURO 3 standard or higher operating in international transport."
+    },
+    {
+      "country": "italy",
+      "start": "2026-03-01T09:00:00",
+      "end": "2026-03-01T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-03-01T00:00:00",
+      "end": "2026-03-01T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    }
+  ]
+}
