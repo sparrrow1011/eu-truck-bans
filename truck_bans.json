@@ -1,758 +1,9 @@
 {
-  "last_updated": "2026-07-31T20:52:52.743630Z",
+  "last_updated": "2026-07-31T21:07:49.692378Z",
   "bans": [
     {
-      "country": "romania",
-      "start": "2026-06-01T06:00:00",
-      "end": "2026-06-01T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-01T16:00:00",
-      "end": "2026-06-01T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-02T09:00:00",
-      "end": "2026-06-02T22:00:00",
-      "regional": true,
-      "info": "Applies on the Inntal A12 motorway and the Brenner A13 motorway if the destination is in Italy or in a country that is reached via Italy"
-    },
-    {
-      "country": "italy",
-      "start": "2026-06-02T07:00:00",
-      "end": "2026-06-02T22:00:00",
-      "regional": false,
-      "info": "Public holiday: Day of the Republic of Italy"
-    },
-    {
-      "country": "poland",
-      "start": "2026-06-03T18:00:00",
-      "end": "2026-06-03T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-03T07:00:00",
-      "end": "2026-06-03T22:00:00",
-      "regional": true,
-      "info": "The restriction applies to the section of the A12 Inntal, A13 Brenner oraz A14 Rheintal/Walgau motorway between the Nößlach exit and Brenner Nord-towards the Austrian‑Italian border, if the purpose of the journey requires travel along this section."
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-03T15:00:00",
-      "end": "2026-06-03T23:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-03T23:30:00",
-      "end": "2026-06-03T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-04T22:00:00",
-      "end": "2026-06-04T23:59:00",
-      "regional": false,
-      "info": "Public holiday: Corpus Christi"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-04T14:00:00",
-      "end": "2026-06-04T23:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-04T00:00:00",
-      "end": "2026-06-04T22:00:00",
-      "regional": false,
-      "info": "Public holiday: Corpus Christi"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-04T00:00:00",
-      "end": "2026-06-04T21:45:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-06-04T00:00:00",
-      "end": "2026-06-04T22:00:00",
-      "regional": true,
-      "info": "only in: Baden-Württemberg, Bayern, Hessen, Nordrhein-Westfalen and Rhineland-Palatinate and Saar"
-    },
-    {
-      "country": "poland",
-      "start": "2026-06-04T18:00:00",
-      "end": "2026-06-04T22:00:00",
-      "regional": false,
-      "info": "Public holiday: Corpus Christi"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-06T21:30:00",
-      "end": "2026-06-06T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-06T15:00:00",
-      "end": "2026-06-06T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "france",
-      "start": "2026-06-06T22:00:00",
-      "end": "2026-06-06T23:59:00",
-      "regional": false,
-      "info": "Saturday ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-06T23:30:00",
-      "end": "2026-06-06T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-06T22:00:00",
-      "end": "2026-06-06T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-06T22:00:00",
-      "end": "2026-06-06T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-06T22:00:00",
-      "end": "2026-06-06T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
       "country": "czech republic",
-      "start": "2026-06-07T13:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "france",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "germany",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-06-07T08:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "italy",
-      "start": "2026-06-07T07:00:00",
-      "end": "2026-06-07T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-07T00:00:00",
-      "end": "2026-06-07T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-12T16:00:00",
-      "end": "2026-06-12T21:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-13T22:00:00",
-      "end": "2026-06-13T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-13T15:00:00",
-      "end": "2026-06-13T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "france",
-      "start": "2026-06-13T22:00:00",
-      "end": "2026-06-13T23:59:00",
-      "regional": false,
-      "info": "Saturday ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-13T08:00:00",
-      "end": "2026-06-13T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-13T21:30:00",
-      "end": "2026-06-13T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-13T23:30:00",
-      "end": "2026-06-13T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-13T22:00:00",
-      "end": "2026-06-13T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-13T22:00:00",
-      "end": "2026-06-13T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-06-14T13:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "france",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-14T08:00:00",
-      "end": "2026-06-14T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "germany",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-06-14T08:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "italy",
-      "start": "2026-06-14T07:00:00",
-      "end": "2026-06-14T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-14T00:00:00",
-      "end": "2026-06-14T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-19T15:00:00",
-      "end": "2026-06-19T23:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-19T16:00:00",
-      "end": "2026-06-19T21:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-20T22:00:00",
-      "end": "2026-06-20T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-20T15:00:00",
-      "end": "2026-06-20T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-20T04:00:00",
-      "end": "2026-06-20T14:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "france",
-      "start": "2026-06-20T22:00:00",
-      "end": "2026-06-20T23:59:00",
-      "regional": false,
-      "info": "Saturday ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-20T08:00:00",
-      "end": "2026-06-20T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-20T21:30:00",
-      "end": "2026-06-20T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-20T23:30:00",
-      "end": "2026-06-20T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-20T22:00:00",
-      "end": "2026-06-20T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-20T22:00:00",
-      "end": "2026-06-20T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-21T12:00:00",
-      "end": "2026-06-21T23:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-06-21T13:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "france",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-21T08:00:00",
-      "end": "2026-06-21T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "italy",
-      "start": "2026-06-21T07:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "germany",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-06-21T00:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-06-21T08:00:00",
-      "end": "2026-06-21T22:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-22T14:00:00",
-      "end": "2026-06-22T23:00:00",
-      "regional": false,
-      "info": "Public holiday: Day of Anti-fascist Fight"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-06-25T08:00:00",
-      "end": "2026-06-25T22:00:00",
-      "regional": true,
-      "info": "Public holiday: Independence Day / Driving ban on certain roads"
-    },
-    {
-      "country": "poland",
-      "start": "2026-06-26T18:00:00",
-      "end": "2026-06-26T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-26T16:00:00",
-      "end": "2026-06-26T21:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-06-27T06:00:00",
-      "end": "2026-06-27T16:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-27T22:00:00",
-      "end": "2026-06-27T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-27T22:00:00",
-      "end": "2026-06-27T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-27T22:00:00",
-      "end": "2026-06-27T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "poland",
-      "start": "2026-06-27T08:00:00",
-      "end": "2026-06-27T14:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-27T23:30:00",
-      "end": "2026-06-27T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-27T21:30:00",
-      "end": "2026-06-27T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-27T08:00:00",
-      "end": "2026-06-27T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-06-27T22:00:00",
-      "end": "2026-06-27T23:59:00",
-      "regional": false,
-      "info": "Saturday ban"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-27T04:00:00",
-      "end": "2026-06-27T14:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-27T15:00:00",
-      "end": "2026-06-27T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "poland",
-      "start": "2026-06-28T08:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "austria",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-06-28T08:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "france",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "italy",
-      "start": "2026-06-28T07:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-06-28T08:00:00",
-      "end": "2026-06-28T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "germany",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-06-28T00:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-06-28T12:00:00",
-      "end": "2026-06-28T23:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-06-28T13:00:00",
-      "end": "2026-06-28T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "romania",
-      "start": "2026-07-03T06:00:00",
-      "end": "2026-07-03T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-07-03T18:00:00",
+      "start": "2026-07-03T13:00:00",
       "end": "2026-07-03T22:00:00",
       "regional": false,
       "info": " "
@@ -765,15 +16,78 @@
       "info": "Multiple roads might be affected. Please check country page for more details."
     },
     {
-      "country": "czech republic",
-      "start": "2026-07-03T13:00:00",
+      "country": "poland",
+      "start": "2026-07-03T18:00:00",
       "end": "2026-07-03T22:00:00",
       "regional": false,
       "info": " "
     },
     {
+      "country": "romania",
+      "start": "2026-07-03T06:00:00",
+      "end": "2026-07-03T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
+      "country": "austria",
+      "start": "2026-07-04T15:00:00",
+      "end": "2026-07-04T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
       "country": "croatia",
       "start": "2026-07-04T04:00:00",
+      "end": "2026-07-04T14:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-07-04T07:00:00",
+      "end": "2026-07-04T13:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "france",
+      "start": "2026-07-04T22:00:00",
+      "end": "2026-07-04T23:59:00",
+      "regional": false,
+      "info": "Saturday ban"
+    },
+    {
+      "country": "greece",
+      "start": "2026-07-04T08:00:00",
+      "end": "2026-07-04T22:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-04T21:30:00",
+      "end": "2026-07-04T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-04T23:30:00",
+      "end": "2026-07-04T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "germany",
+      "start": "2026-07-04T07:00:00",
+      "end": "2026-07-04T20:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "poland",
+      "start": "2026-07-04T08:00:00",
       "end": "2026-07-04T14:00:00",
       "regional": false,
       "info": " "
@@ -786,63 +100,28 @@
       "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
-      "country": "poland",
-      "start": "2026-07-04T08:00:00",
-      "end": "2026-07-04T14:00:00",
+      "country": "slovakia",
+      "start": "2026-07-04T07:00:00",
+      "end": "2026-07-04T19:00:00",
       "regional": false,
       "info": " "
     },
     {
-      "country": "germany",
-      "start": "2026-07-04T07:00:00",
-      "end": "2026-07-04T20:00:00",
+      "country": "slovenia",
+      "start": "2026-07-04T06:00:00",
+      "end": "2026-07-04T16:00:00",
       "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
+      "info": "Driving ban on certain roads"
     },
     {
-      "country": "luxembourg",
-      "start": "2026-07-04T23:30:00",
-      "end": "2026-07-04T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-07-04T21:30:00",
-      "end": "2026-07-04T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "greece",
-      "start": "2026-07-04T08:00:00",
-      "end": "2026-07-04T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
+      "country": "switzerland",
       "start": "2026-07-04T22:00:00",
-      "end": "2026-07-04T23:59:00",
-      "regional": false,
-      "info": "Saturday ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-07-04T07:00:00",
-      "end": "2026-07-04T13:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "austria",
-      "start": "2026-07-04T15:00:00",
       "end": "2026-07-04T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
     },
     {
-      "country": "liechtenstein",
+      "country": "hungary",
       "start": "2026-07-04T22:00:00",
       "end": "2026-07-04T23:59:00",
       "regional": false,
@@ -856,113 +135,15 @@
       "info": " "
     },
     {
-      "country": "hungary",
-      "start": "2026-07-04T22:00:00",
-      "end": "2026-07-04T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-07-04T22:00:00",
-      "end": "2026-07-04T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-07-04T06:00:00",
-      "end": "2026-07-04T16:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-07-04T07:00:00",
-      "end": "2026-07-04T19:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
       "country": "liechtenstein",
+      "start": "2026-07-04T22:00:00",
+      "end": "2026-07-04T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "austria",
       "start": "2026-07-05T00:00:00",
-      "end": "2026-07-05T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-07-05T00:00:00",
-      "end": "2026-07-05T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-07-05T00:00:00",
-      "end": "2026-07-05T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-07-05T08:00:00",
-      "end": "2026-07-05T22:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-07-05T00:00:00",
-      "end": "2026-07-05T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "romania",
-      "start": "2026-07-05T06:00:00",
-      "end": "2026-07-05T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-07-05T08:00:00",
-      "end": "2026-07-05T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-07-05T00:00:00",
-      "end": "2026-07-05T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-07-05T00:00:00",
-      "end": "2026-07-05T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-07-05T08:00:00",
-      "end": "2026-07-05T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-07-05T00:00:00",
-      "end": "2026-07-05T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-07-05T13:00:00",
       "end": "2026-07-05T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
@@ -975,7 +156,77 @@
       "info": " "
     },
     {
-      "country": "austria",
+      "country": "czech republic",
+      "start": "2026-07-05T13:00:00",
+      "end": "2026-07-05T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-07-05T00:00:00",
+      "end": "2026-07-05T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "greece",
+      "start": "2026-07-05T08:00:00",
+      "end": "2026-07-05T23:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-05T00:00:00",
+      "end": "2026-07-05T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-07-05T00:00:00",
+      "end": "2026-07-05T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "poland",
+      "start": "2026-07-05T08:00:00",
+      "end": "2026-07-05T22:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-07-05T06:00:00",
+      "end": "2026-07-05T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-07-05T00:00:00",
+      "end": "2026-07-05T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-07-05T08:00:00",
+      "end": "2026-07-05T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-07-05T00:00:00",
+      "end": "2026-07-05T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
       "start": "2026-07-05T00:00:00",
       "end": "2026-07-05T22:00:00",
       "regional": false,
@@ -989,6 +240,13 @@
       "info": "Sunday regular ban"
     },
     {
+      "country": "liechtenstein",
+      "start": "2026-07-05T00:00:00",
+      "end": "2026-07-05T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
       "country": "czech republic",
       "start": "2026-07-06T13:00:00",
       "end": "2026-07-06T22:00:00",
@@ -996,9 +254,9 @@
       "info": "Public holiday: Jan Hus Day (1415)"
     },
     {
-      "country": "poland",
-      "start": "2026-07-10T18:00:00",
-      "end": "2026-07-10T22:00:00",
+      "country": "czech republic",
+      "start": "2026-07-10T17:00:00",
+      "end": "2026-07-10T21:00:00",
       "regional": false,
       "info": " "
     },
@@ -1010,9 +268,9 @@
       "info": "Multiple roads might be affected. Please check country page for more details."
     },
     {
-      "country": "czech republic",
-      "start": "2026-07-10T17:00:00",
-      "end": "2026-07-10T21:00:00",
+      "country": "poland",
+      "start": "2026-07-10T18:00:00",
+      "end": "2026-07-10T22:00:00",
       "regional": false,
       "info": " "
     },
@@ -1022,13 +280,6 @@
       "end": "2026-07-10T22:00:00",
       "regional": true,
       "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-07-11T22:00:00",
-      "end": "2026-07-11T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
     },
     {
       "country": "austria",
@@ -1115,6 +366,13 @@
       "info": "Driving ban on certain roads"
     },
     {
+      "country": "switzerland",
+      "start": "2026-07-11T22:00:00",
+      "end": "2026-07-11T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
       "country": "hungary",
       "start": "2026-07-11T15:00:00",
       "end": "2026-07-11T23:59:00",
@@ -1136,78 +394,8 @@
       "info": "Saturday regular ban"
     },
     {
-      "country": "italy",
-      "start": "2026-07-12T07:00:00",
-      "end": "2026-07-12T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "switzerland",
+      "country": "austria",
       "start": "2026-07-12T00:00:00",
-      "end": "2026-07-12T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-07-12T08:00:00",
-      "end": "2026-07-12T22:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-07-12T00:00:00",
-      "end": "2026-07-12T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "romania",
-      "start": "2026-07-12T06:00:00",
-      "end": "2026-07-12T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-07-12T08:00:00",
-      "end": "2026-07-12T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-07-12T00:00:00",
-      "end": "2026-07-12T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-07-12T00:00:00",
-      "end": "2026-07-12T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-07-12T08:00:00",
-      "end": "2026-07-12T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-07-12T00:00:00",
-      "end": "2026-07-12T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-07-12T13:00:00",
       "end": "2026-07-12T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
@@ -1220,14 +408,70 @@
       "info": " "
     },
     {
-      "country": "austria",
+      "country": "czech republic",
+      "start": "2026-07-12T13:00:00",
+      "end": "2026-07-12T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
       "start": "2026-07-12T00:00:00",
       "end": "2026-07-12T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
     },
     {
-      "country": "liechtenstein",
+      "country": "greece",
+      "start": "2026-07-12T08:00:00",
+      "end": "2026-07-12T23:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-12T00:00:00",
+      "end": "2026-07-12T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-07-12T00:00:00",
+      "end": "2026-07-12T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "poland",
+      "start": "2026-07-12T08:00:00",
+      "end": "2026-07-12T22:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-07-12T06:00:00",
+      "end": "2026-07-12T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-07-12T00:00:00",
+      "end": "2026-07-12T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-07-12T08:00:00",
+      "end": "2026-07-12T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
       "start": "2026-07-12T00:00:00",
       "end": "2026-07-12T23:59:00",
       "regional": false,
@@ -1241,11 +485,18 @@
       "info": "Sunday regular ban"
     },
     {
-      "country": "luxembourg",
-      "start": "2026-07-13T21:30:00",
-      "end": "2026-07-13T23:59:00",
+      "country": "italy",
+      "start": "2026-07-12T07:00:00",
+      "end": "2026-07-12T22:00:00",
       "regional": false,
-      "info": " in the direction of France"
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "liechtenstein",
+      "start": "2026-07-12T00:00:00",
+      "end": "2026-07-12T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
     },
     {
       "country": "france",
@@ -1253,6 +504,13 @@
       "end": "2026-07-13T23:59:00",
       "regional": false,
       "info": " "
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-13T21:30:00",
+      "end": "2026-07-13T23:59:00",
+      "regional": false,
+      "info": " in the direction of France"
     },
     {
       "country": "france",
@@ -1267,13 +525,6 @@
       "end": "2026-07-14T21:45:00",
       "regional": false,
       "info": " in the direction of France"
-    },
-    {
-      "country": "romania",
-      "start": "2026-07-17T06:00:00",
-      "end": "2026-07-17T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
       "country": "czech republic",
@@ -1297,6 +548,13 @@
       "info": " "
     },
     {
+      "country": "romania",
+      "start": "2026-07-17T06:00:00",
+      "end": "2026-07-17T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
       "country": "austria",
       "start": "2026-07-18T15:00:00",
       "end": "2026-07-18T23:59:00",
@@ -1304,8 +562,92 @@
       "info": "Saturday regular ban"
     },
     {
-      "country": "liechtenstein",
+      "country": "croatia",
+      "start": "2026-07-18T04:00:00",
+      "end": "2026-07-18T14:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-07-18T07:00:00",
+      "end": "2026-07-18T13:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "france",
+      "start": "2026-07-18T07:00:00",
+      "end": "2026-07-18T19:00:00",
+      "regional": false,
+      "info": "Saturday summer ban"
+    },
+    {
+      "country": "greece",
+      "start": "2026-07-18T08:00:00",
+      "end": "2026-07-18T22:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-18T21:30:00",
+      "end": "2026-07-18T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-18T23:30:00",
+      "end": "2026-07-18T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "germany",
+      "start": "2026-07-18T07:00:00",
+      "end": "2026-07-18T20:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "poland",
+      "start": "2026-07-18T08:00:00",
+      "end": "2026-07-18T14:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-07-18T06:00:00",
+      "end": "2026-07-18T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-07-18T07:00:00",
+      "end": "2026-07-18T19:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-07-18T06:00:00",
+      "end": "2026-07-18T16:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
       "start": "2026-07-18T22:00:00",
+      "end": "2026-07-18T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-07-18T15:00:00",
       "end": "2026-07-18T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
@@ -1318,95 +660,11 @@
       "info": " "
     },
     {
-      "country": "hungary",
-      "start": "2026-07-18T15:00:00",
-      "end": "2026-07-18T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "switzerland",
+      "country": "liechtenstein",
       "start": "2026-07-18T22:00:00",
       "end": "2026-07-18T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-07-18T06:00:00",
-      "end": "2026-07-18T16:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-07-18T07:00:00",
-      "end": "2026-07-18T19:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "romania",
-      "start": "2026-07-18T06:00:00",
-      "end": "2026-07-18T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-07-18T08:00:00",
-      "end": "2026-07-18T14:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-07-18T07:00:00",
-      "end": "2026-07-18T20:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-07-18T23:30:00",
-      "end": "2026-07-18T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-07-18T21:30:00",
-      "end": "2026-07-18T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "greece",
-      "start": "2026-07-18T08:00:00",
-      "end": "2026-07-18T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-07-18T07:00:00",
-      "end": "2026-07-18T19:00:00",
-      "regional": false,
-      "info": "Saturday summer ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-07-18T07:00:00",
-      "end": "2026-07-18T13:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "croatia",
-      "start": "2026-07-18T04:00:00",
-      "end": "2026-07-18T14:00:00",
-      "regional": false,
-      "info": " "
     },
     {
       "country": "austria",
@@ -1549,13 +807,6 @@
       "info": " "
     },
     {
-      "country": "switzerland",
-      "start": "2026-07-25T22:00:00",
-      "end": "2026-07-25T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
       "country": "austria",
       "start": "2026-07-25T15:00:00",
       "end": "2026-07-25T23:59:00",
@@ -1640,6 +891,13 @@
       "info": "Driving ban on certain roads"
     },
     {
+      "country": "switzerland",
+      "start": "2026-07-25T22:00:00",
+      "end": "2026-07-25T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
       "country": "hungary",
       "start": "2026-07-25T15:00:00",
       "end": "2026-07-25T23:59:00",
@@ -1661,78 +919,8 @@
       "info": "Saturday regular ban"
     },
     {
-      "country": "luxembourg",
+      "country": "austria",
       "start": "2026-07-26T00:00:00",
-      "end": "2026-07-26T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "france",
-      "start": "2026-07-26T00:00:00",
-      "end": "2026-07-26T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-07-26T00:00:00",
-      "end": "2026-07-26T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "romania",
-      "start": "2026-07-26T06:00:00",
-      "end": "2026-07-26T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-07-26T08:00:00",
-      "end": "2026-07-26T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-07-26T00:00:00",
-      "end": "2026-07-26T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-07-26T08:00:00",
-      "end": "2026-07-26T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-07-26T00:00:00",
-      "end": "2026-07-26T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-07-26T00:00:00",
-      "end": "2026-07-26T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-07-26T00:00:00",
-      "end": "2026-07-26T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-07-26T13:00:00",
       "end": "2026-07-26T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
@@ -1745,7 +933,56 @@
       "info": " "
     },
     {
-      "country": "austria",
+      "country": "czech republic",
+      "start": "2026-07-26T13:00:00",
+      "end": "2026-07-26T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-07-26T00:00:00",
+      "end": "2026-07-26T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "greece",
+      "start": "2026-07-26T08:00:00",
+      "end": "2026-07-26T23:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-07-26T00:00:00",
+      "end": "2026-07-26T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-07-26T00:00:00",
+      "end": "2026-07-26T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "poland",
+      "start": "2026-07-26T08:00:00",
+      "end": "2026-07-26T22:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-07-26T06:00:00",
+      "end": "2026-07-26T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
+      "country": "slovakia",
       "start": "2026-07-26T00:00:00",
       "end": "2026-07-26T22:00:00",
       "regional": false,
@@ -1759,6 +996,20 @@
       "info": "Driving ban on certain roads"
     },
     {
+      "country": "switzerland",
+      "start": "2026-07-26T00:00:00",
+      "end": "2026-07-26T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-07-26T00:00:00",
+      "end": "2026-07-26T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
       "country": "italy",
       "start": "2026-07-26T07:00:00",
       "end": "2026-07-26T22:00:00",
@@ -1766,8 +1017,29 @@
       "info": "Sunday regular ban"
     },
     {
-      "country": "italy",
-      "start": "2026-07-31T16:00:00",
+      "country": "liechtenstein",
+      "start": "2026-07-26T00:00:00",
+      "end": "2026-07-26T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-07-31T17:00:00",
+      "end": "2026-07-31T21:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "greece",
+      "start": "2026-07-31T15:00:00",
+      "end": "2026-07-31T22:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "poland",
+      "start": "2026-07-31T18:00:00",
       "end": "2026-07-31T22:00:00",
       "regional": false,
       "info": " "
@@ -1780,86 +1052,9 @@
       "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
-      "country": "poland",
-      "start": "2026-07-31T18:00:00",
+      "country": "italy",
+      "start": "2026-07-31T16:00:00",
       "end": "2026-07-31T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "greece",
-      "start": "2026-07-31T15:00:00",
-      "end": "2026-07-31T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-07-31T17:00:00",
-      "end": "2026-07-31T21:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-08-01T07:00:00",
-      "end": "2026-08-01T19:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "poland",
-      "start": "2026-08-01T08:00:00",
-      "end": "2026-08-01T14:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-08-01T07:00:00",
-      "end": "2026-08-01T20:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-01T23:30:00",
-      "end": "2026-08-01T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-01T21:30:00",
-      "end": "2026-08-01T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "greece",
-      "start": "2026-08-01T08:00:00",
-      "end": "2026-08-01T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-08-01T07:00:00",
-      "end": "2026-08-01T19:00:00",
-      "regional": false,
-      "info": "Saturday summer ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-08-01T07:00:00",
-      "end": "2026-08-01T13:00:00",
-      "regional": false,
-      "info": "   "
-    },
-    {
-      "country": "croatia",
-      "start": "2026-08-01T04:00:00",
-      "end": "2026-08-01T14:00:00",
       "regional": false,
       "info": " "
     },
@@ -1871,6 +1066,62 @@
       "info": "Saturday regular ban"
     },
     {
+      "country": "croatia",
+      "start": "2026-08-01T04:00:00",
+      "end": "2026-08-01T14:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-08-01T07:00:00",
+      "end": "2026-08-01T13:00:00",
+      "regional": false,
+      "info": "   "
+    },
+    {
+      "country": "france",
+      "start": "2026-08-01T07:00:00",
+      "end": "2026-08-01T19:00:00",
+      "regional": false,
+      "info": "Saturday summer ban"
+    },
+    {
+      "country": "greece",
+      "start": "2026-08-01T08:00:00",
+      "end": "2026-08-01T22:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-01T21:30:00",
+      "end": "2026-08-01T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-01T23:30:00",
+      "end": "2026-08-01T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "germany",
+      "start": "2026-08-01T07:00:00",
+      "end": "2026-08-01T20:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "poland",
+      "start": "2026-08-01T08:00:00",
+      "end": "2026-08-01T14:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
       "country": "romania",
       "start": "2026-08-01T06:00:00",
       "end": "2026-08-01T22:00:00",
@@ -1878,8 +1129,29 @@
       "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
-      "country": "liechtenstein",
-      "start": "2026-08-01T22:00:00",
+      "country": "slovakia",
+      "start": "2026-08-01T07:00:00",
+      "end": "2026-08-01T19:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-08-01T06:00:00",
+      "end": "2026-08-01T16:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
+      "start": "2026-08-01T00:00:00",
+      "end": "2026-08-01T23:59:00",
+      "regional": false,
+      "info": "Bank holiday: Swiss National Day"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-08-01T15:00:00",
       "end": "2026-08-01T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
@@ -1892,32 +1164,11 @@
       "info": " "
     },
     {
-      "country": "hungary",
-      "start": "2026-08-01T15:00:00",
+      "country": "liechtenstein",
+      "start": "2026-08-01T22:00:00",
       "end": "2026-08-01T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-08-01T00:00:00",
-      "end": "2026-08-01T23:59:00",
-      "regional": false,
-      "info": "Bank holiday: Swiss National Day"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-08-01T06:00:00",
-      "end": "2026-08-01T16:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-08-02T00:00:00",
-      "end": "2026-08-02T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
     },
     {
       "country": "austria",
@@ -1925,6 +1176,62 @@
       "end": "2026-08-02T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
+    },
+    {
+      "country": "croatia",
+      "start": "2026-08-02T12:00:00",
+      "end": "2026-08-02T23:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-08-02T13:00:00",
+      "end": "2026-08-02T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-08-02T00:00:00",
+      "end": "2026-08-02T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "greece",
+      "start": "2026-08-02T08:00:00",
+      "end": "2026-08-02T23:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-02T00:00:00",
+      "end": "2026-08-02T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-08-02T00:00:00",
+      "end": "2026-08-02T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "poland",
+      "start": "2026-08-02T08:00:00",
+      "end": "2026-08-02T22:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-08-02T06:00:00",
+      "end": "2026-08-02T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
       "country": "slovakia",
@@ -1962,60 +1269,11 @@
       "info": "Sunday regular ban"
     },
     {
-      "country": "romania",
-      "start": "2026-08-02T06:00:00",
-      "end": "2026-08-02T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-08-02T08:00:00",
-      "end": "2026-08-02T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
+      "country": "liechtenstein",
       "start": "2026-08-02T00:00:00",
-      "end": "2026-08-02T22:00:00",
+      "end": "2026-08-02T23:59:00",
       "regional": false,
       "info": "Sunday regular ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-02T00:00:00",
-      "end": "2026-08-02T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-08-02T08:00:00",
-      "end": "2026-08-02T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-08-02T00:00:00",
-      "end": "2026-08-02T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-08-02T13:00:00",
-      "end": "2026-08-02T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-08-02T12:00:00",
-      "end": "2026-08-02T23:00:00",
-      "regional": false,
-      "info": " "
     },
     {
       "country": "croatia",
@@ -2060,13 +1318,6 @@
       "info": " "
     },
     {
-      "country": "luxembourg",
-      "start": "2026-08-08T23:30:00",
-      "end": "2026-08-08T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
       "country": "austria",
       "start": "2026-08-08T15:00:00",
       "end": "2026-08-08T23:59:00",
@@ -2107,6 +1358,13 @@
       "end": "2026-08-08T23:59:00",
       "regional": false,
       "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-08T23:30:00",
+      "end": "2026-08-08T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
     },
     {
       "country": "germany",
@@ -2172,6 +1430,69 @@
       "info": "Saturday regular ban"
     },
     {
+      "country": "austria",
+      "start": "2026-08-09T00:00:00",
+      "end": "2026-08-09T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "croatia",
+      "start": "2026-08-09T12:00:00",
+      "end": "2026-08-09T23:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-08-09T13:00:00",
+      "end": "2026-08-09T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
+      "start": "2026-08-09T00:00:00",
+      "end": "2026-08-09T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "greece",
+      "start": "2026-08-09T08:00:00",
+      "end": "2026-08-09T23:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-09T00:00:00",
+      "end": "2026-08-09T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-08-09T00:00:00",
+      "end": "2026-08-09T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "poland",
+      "start": "2026-08-09T08:00:00",
+      "end": "2026-08-09T22:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-08-09T06:00:00",
+      "end": "2026-08-09T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
       "country": "slovakia",
       "start": "2026-08-09T00:00:00",
       "end": "2026-08-09T22:00:00",
@@ -2193,13 +1514,6 @@
       "info": "Sunday regular ban"
     },
     {
-      "country": "romania",
-      "start": "2026-08-09T06:00:00",
-      "end": "2026-08-09T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
       "country": "hungary",
       "start": "2026-08-09T00:00:00",
       "end": "2026-08-09T22:00:00",
@@ -2219,69 +1533,6 @@
       "end": "2026-08-09T23:59:00",
       "regional": false,
       "info": "Sunday regular ban"
-    },
-    {
-      "country": "poland",
-      "start": "2026-08-09T08:00:00",
-      "end": "2026-08-09T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-08-09T00:00:00",
-      "end": "2026-08-09T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-09T00:00:00",
-      "end": "2026-08-09T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-08-09T08:00:00",
-      "end": "2026-08-09T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-08-09T00:00:00",
-      "end": "2026-08-09T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-08-09T13:00:00",
-      "end": "2026-08-09T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "croatia",
-      "start": "2026-08-09T12:00:00",
-      "end": "2026-08-09T23:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "austria",
-      "start": "2026-08-09T00:00:00",
-      "end": "2026-08-09T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "romania",
-      "start": "2026-08-14T06:00:00",
-      "end": "2026-08-14T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
       "country": "czech republic",
@@ -2326,18 +1577,18 @@
       "info": " "
     },
     {
+      "country": "romania",
+      "start": "2026-08-14T06:00:00",
+      "end": "2026-08-14T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
       "country": "italy",
       "start": "2026-08-14T16:00:00",
       "end": "2026-08-14T22:00:00",
       "regional": false,
       "info": " "
-    },
-    {
-      "country": "hungary",
-      "start": "2026-08-15T15:00:00",
-      "end": "2026-08-15T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
     },
     {
       "country": "austria",
@@ -2424,6 +1675,13 @@
       "info": "Saturday regular ban"
     },
     {
+      "country": "hungary",
+      "start": "2026-08-15T15:00:00",
+      "end": "2026-08-15T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
       "country": "italy",
       "start": "2026-08-15T07:00:00",
       "end": "2026-08-15T22:00:00",
@@ -2436,13 +1694,6 @@
       "end": "2026-08-15T23:59:00",
       "regional": false,
       "info": "Bank holiday: National Holiday"
-    },
-    {
-      "country": "switzerland",
-      "start": "2026-08-16T00:00:00",
-      "end": "2026-08-16T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
     },
     {
       "country": "austria",
@@ -2522,6 +1773,20 @@
       "info": "Driving ban on certain roads"
     },
     {
+      "country": "switzerland",
+      "start": "2026-08-16T00:00:00",
+      "end": "2026-08-16T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-08-16T00:00:00",
+      "end": "2026-08-16T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
       "country": "italy",
       "start": "2026-08-16T07:00:00",
       "end": "2026-08-16T22:00:00",
@@ -2537,10 +1802,10 @@
     },
     {
       "country": "hungary",
-      "start": "2026-08-16T00:00:00",
-      "end": "2026-08-16T22:00:00",
+      "start": "2026-08-19T22:00:00",
+      "end": "2026-08-19T23:59:00",
       "regional": false,
-      "info": "Sunday regular ban"
+      "info": " "
     },
     {
       "country": "hungary",
@@ -2548,13 +1813,6 @@
       "end": "2026-08-19T22:00:00",
       "regional": false,
       "info": "Bank holiday: National Day"
-    },
-    {
-      "country": "hungary",
-      "start": "2026-08-19T22:00:00",
-      "end": "2026-08-19T23:59:00",
-      "regional": false,
-      "info": " "
     },
     {
       "country": "czech republic",
@@ -2585,6 +1843,27 @@
       "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
+      "country": "austria",
+      "start": "2026-08-22T15:00:00",
+      "end": "2026-08-22T23:59:00",
+      "regional": false,
+      "info": "Saturday regular ban"
+    },
+    {
+      "country": "croatia",
+      "start": "2026-08-22T04:00:00",
+      "end": "2026-08-22T14:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "czech republic",
+      "start": "2026-08-22T07:00:00",
+      "end": "2026-08-22T13:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
       "country": "france",
       "start": "2026-08-22T22:00:00",
       "end": "2026-08-22T23:59:00",
@@ -2592,8 +1871,71 @@
       "info": "Saturday regular ban"
     },
     {
-      "country": "liechtenstein",
+      "country": "greece",
+      "start": "2026-08-22T08:00:00",
+      "end": "2026-08-22T22:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-22T21:30:00",
+      "end": "2026-08-22T23:59:00",
+      "regional": false,
+      "info": "in the direction of France"
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-22T23:30:00",
+      "end": "2026-08-22T23:59:00",
+      "regional": false,
+      "info": "in the direction of Germany"
+    },
+    {
+      "country": "germany",
+      "start": "2026-08-22T07:00:00",
+      "end": "2026-08-22T20:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "poland",
+      "start": "2026-08-22T08:00:00",
+      "end": "2026-08-22T14:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-08-22T06:00:00",
+      "end": "2026-08-22T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-08-22T07:00:00",
+      "end": "2026-08-22T19:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-08-22T06:00:00",
+      "end": "2026-08-22T16:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
       "start": "2026-08-22T22:00:00",
+      "end": "2026-08-22T23:59:00",
+      "regional": false,
+      "info": "Bank holiday: Swiss National Day"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-08-22T15:00:00",
       "end": "2026-08-22T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
@@ -2606,102 +1948,11 @@
       "info": " "
     },
     {
-      "country": "hungary",
-      "start": "2026-08-22T15:00:00",
-      "end": "2026-08-22T23:59:00",
-      "regional": false,
-      "info": "Saturday regular ban"
-    },
-    {
-      "country": "switzerland",
+      "country": "liechtenstein",
       "start": "2026-08-22T22:00:00",
       "end": "2026-08-22T23:59:00",
       "regional": false,
-      "info": "Bank holiday: Swiss National Day"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-08-22T06:00:00",
-      "end": "2026-08-22T16:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "slovakia",
-      "start": "2026-08-22T07:00:00",
-      "end": "2026-08-22T19:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "romania",
-      "start": "2026-08-22T06:00:00",
-      "end": "2026-08-22T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-08-22T08:00:00",
-      "end": "2026-08-22T14:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-08-22T07:00:00",
-      "end": "2026-08-22T20:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-22T23:30:00",
-      "end": "2026-08-22T23:59:00",
-      "regional": false,
-      "info": "in the direction of Germany"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-22T21:30:00",
-      "end": "2026-08-22T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
-    },
-    {
-      "country": "greece",
-      "start": "2026-08-22T08:00:00",
-      "end": "2026-08-22T22:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-08-22T07:00:00",
-      "end": "2026-08-22T13:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "croatia",
-      "start": "2026-08-22T04:00:00",
-      "end": "2026-08-22T14:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "austria",
-      "start": "2026-08-22T15:00:00",
-      "end": "2026-08-22T23:59:00",
-      "regional": false,
       "info": "Saturday regular ban"
-    },
-    {
-      "country": "liechtenstein",
-      "start": "2026-08-23T00:00:00",
-      "end": "2026-08-23T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
     },
     {
       "country": "austria",
@@ -2802,11 +2053,11 @@
       "info": "Sunday regular ban"
     },
     {
-      "country": "poland",
-      "start": "2026-08-28T18:00:00",
-      "end": "2026-08-28T22:00:00",
+      "country": "liechtenstein",
+      "start": "2026-08-23T00:00:00",
+      "end": "2026-08-23T23:59:00",
       "regional": false,
-      "info": " "
+      "info": "Sunday regular ban"
     },
     {
       "country": "czech republic",
@@ -2823,18 +2074,18 @@
       "info": "Multiple roads might be affected. Please check country page for more details."
     },
     {
+      "country": "poland",
+      "start": "2026-08-28T18:00:00",
+      "end": "2026-08-28T22:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
       "country": "romania",
       "start": "2026-08-28T06:00:00",
       "end": "2026-08-28T22:00:00",
       "regional": true,
       "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-29T21:30:00",
-      "end": "2026-08-29T23:59:00",
-      "regional": false,
-      "info": "in the direction of France"
     },
     {
       "country": "austria",
@@ -2872,11 +2123,11 @@
       "info": "Multiple roads might be affected. Please check country page for more details."
     },
     {
-      "country": "slovakia",
-      "start": "2026-08-29T00:00:00",
-      "end": "2026-08-29T22:00:00",
+      "country": "luxembourg",
+      "start": "2026-08-29T21:30:00",
+      "end": "2026-08-29T23:59:00",
       "regional": false,
-      "info": "Bank holiday:  Anniversary of the Slovak national uprising"
+      "info": "in the direction of France"
     },
     {
       "country": "luxembourg",
@@ -2907,8 +2158,29 @@
       "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
     },
     {
-      "country": "liechtenstein",
+      "country": "slovakia",
+      "start": "2026-08-29T00:00:00",
+      "end": "2026-08-29T22:00:00",
+      "regional": false,
+      "info": "Bank holiday:  Anniversary of the Slovak national uprising"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-08-29T06:00:00",
+      "end": "2026-08-29T16:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
       "start": "2026-08-29T22:00:00",
+      "end": "2026-08-29T23:59:00",
+      "regional": false,
+      "info": "Bank holiday: Swiss National Day"
+    },
+    {
+      "country": "hungary",
+      "start": "2026-08-29T15:00:00",
       "end": "2026-08-29T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
@@ -2921,78 +2193,15 @@
       "info": " "
     },
     {
-      "country": "hungary",
-      "start": "2026-08-29T15:00:00",
+      "country": "liechtenstein",
+      "start": "2026-08-29T22:00:00",
       "end": "2026-08-29T23:59:00",
       "regional": false,
       "info": "Saturday regular ban"
     },
     {
-      "country": "switzerland",
-      "start": "2026-08-29T22:00:00",
-      "end": "2026-08-29T23:59:00",
-      "regional": false,
-      "info": "Bank holiday: Swiss National Day"
-    },
-    {
-      "country": "slovenia",
-      "start": "2026-08-29T06:00:00",
-      "end": "2026-08-29T16:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
-    },
-    {
-      "country": "slovakia",
+      "country": "austria",
       "start": "2026-08-30T00:00:00",
-      "end": "2026-08-30T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "romania",
-      "start": "2026-08-30T06:00:00",
-      "end": "2026-08-30T22:00:00",
-      "regional": true,
-      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
-    },
-    {
-      "country": "poland",
-      "start": "2026-08-30T08:00:00",
-      "end": "2026-08-30T22:00:00",
-      "regional": false,
-      "info": " "
-    },
-    {
-      "country": "germany",
-      "start": "2026-08-30T00:00:00",
-      "end": "2026-08-30T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "luxembourg",
-      "start": "2026-08-30T00:00:00",
-      "end": "2026-08-30T21:45:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "greece",
-      "start": "2026-08-30T08:00:00",
-      "end": "2026-08-30T23:00:00",
-      "regional": true,
-      "info": "Multiple roads might be affected. Please check country page for more details."
-    },
-    {
-      "country": "france",
-      "start": "2026-08-30T00:00:00",
-      "end": "2026-08-30T22:00:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "czech republic",
-      "start": "2026-08-30T13:00:00",
       "end": "2026-08-30T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
@@ -3005,23 +2214,72 @@
       "info": " "
     },
     {
-      "country": "austria",
+      "country": "czech republic",
+      "start": "2026-08-30T13:00:00",
+      "end": "2026-08-30T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "france",
       "start": "2026-08-30T00:00:00",
       "end": "2026-08-30T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
     },
     {
-      "country": "liechtenstein",
+      "country": "greece",
+      "start": "2026-08-30T08:00:00",
+      "end": "2026-08-30T23:00:00",
+      "regional": true,
+      "info": "Multiple roads might be affected. Please check country page for more details."
+    },
+    {
+      "country": "luxembourg",
+      "start": "2026-08-30T00:00:00",
+      "end": "2026-08-30T21:45:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "germany",
+      "start": "2026-08-30T00:00:00",
+      "end": "2026-08-30T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "poland",
+      "start": "2026-08-30T08:00:00",
+      "end": "2026-08-30T22:00:00",
+      "regional": false,
+      "info": " "
+    },
+    {
+      "country": "romania",
+      "start": "2026-08-30T06:00:00",
+      "end": "2026-08-30T22:00:00",
+      "regional": true,
+      "info": "DN7 - Pitești (junction of DN7 and DN7C) - Rm. Vâlcea - Veștem (junction of DN7 and DN1), in both directions.\nA2 - Bucharest (junction of A2 with Bucharest Ring Road) - Fundulea - Lehliu - Fetești - Cernavoda - Constanța (junction of A2 with A4) – in both directions.\nDN39 - Agigea (junction of DN39 with DN39A) - Mangalia (municipal border) – in both directions."
+    },
+    {
+      "country": "slovakia",
+      "start": "2026-08-30T00:00:00",
+      "end": "2026-08-30T22:00:00",
+      "regional": false,
+      "info": "Sunday regular ban"
+    },
+    {
+      "country": "slovenia",
+      "start": "2026-08-30T08:00:00",
+      "end": "2026-08-30T22:00:00",
+      "regional": true,
+      "info": "Driving ban on certain roads"
+    },
+    {
+      "country": "switzerland",
       "start": "2026-08-30T00:00:00",
       "end": "2026-08-30T23:59:00",
-      "regional": false,
-      "info": "Sunday regular ban"
-    },
-    {
-      "country": "italy",
-      "start": "2026-08-30T07:00:00",
-      "end": "2026-08-30T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
     },
@@ -3033,18 +2291,18 @@
       "info": "Sunday regular ban"
     },
     {
-      "country": "switzerland",
-      "start": "2026-08-30T00:00:00",
-      "end": "2026-08-30T23:59:00",
+      "country": "italy",
+      "start": "2026-08-30T07:00:00",
+      "end": "2026-08-30T22:00:00",
       "regional": false,
       "info": "Sunday regular ban"
     },
     {
-      "country": "slovenia",
-      "start": "2026-08-30T08:00:00",
-      "end": "2026-08-30T22:00:00",
-      "regional": true,
-      "info": "Driving ban on certain roads"
+      "country": "liechtenstein",
+      "start": "2026-08-30T00:00:00",
+      "end": "2026-08-30T23:59:00",
+      "regional": false,
+      "info": "Sunday regular ban"
     }
   ]
 }
